@@ -1,6 +1,7 @@
 # best-repo-ever2
 
+new-branch-2
 I would say it is hard now, but will bring a bright future, 
 that is the note for future me.
-
-that is the end
+nope, it is not like this.
+main
